@@ -1,0 +1,34 @@
+{
+  "short_name": "Rusbel Salinas",
+  "name": "Portafolio de Rusbel Salinas",
+  "icons": [
+    {
+      "src": "/Me.webp",
+      "sizes": "674x674",
+      "type": "image/webp"
+    },
+    {
+      "src": "/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src":"/Xiaomi-12-portfolio.webp",
+      "sizes":"320x320",
+      "type":"image/webp",
+      "form_factor":"narrow"
+
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
