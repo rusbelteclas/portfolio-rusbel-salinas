@@ -5,7 +5,7 @@ import { motion, useAnimation } from 'framer-motion';
 
 // Datos de enlaces sociales
 const socialLinks = [
-  { Icon: FaGithub, href: 'https://github.com/abass-dev' },
+  { Icon: FaGithub, href: 'https://github.com/rusbelteclas' },
   { Icon: FaFacebook, href: 'https://www.facebook.com/share/193GgohyxR' },
   { Icon: FaWhatsapp, href: 'https://wa.me/522213590270' },
   { Icon: FaLinkedin, href: 'https://linkedin.com/in/rusbel-salinas-4489882a9' },
