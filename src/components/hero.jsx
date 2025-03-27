@@ -216,7 +216,7 @@ const ProfileCard = () => {
 
               <div className="flex justify-center md:justify-start">
                 <a
-                  href="/images/CV_RusbelSalinas.pdf"
+                  href="/images/CV_Rusbel_Salinas.pdf"
                   download
                   className="inline-flex items-center px-6 py-3 rounded-full bg-gradient-to-r from-cyan-400 to-sky-500 hover:from-cyan-500 hover:to-sky-600 text-white font-semibold shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-all duration-300"
                 >
